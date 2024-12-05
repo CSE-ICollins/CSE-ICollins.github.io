@@ -1,17 +1,17 @@
 /* General Styling */
 body{
-    background: #f8feff;
+    background: #faf1aa;
     font-family:"Times New Roman", Times, serif;
     margin: 40px;
 }
 
 h1 {
     text-align: center;
-    color: #6f7bfc;
+    color: rgb(202, 101, 23);
 }
 
 h1:hover{
-    color:rgb(126, 14, 201);
+    color:rgb(202, 101, 23);
     text-decoration: overline underline;
     text-underline-offset: 5px;
 
@@ -32,7 +32,7 @@ h3 {
     width:30%;
     margin: 10px;
     padding: 20px 10px;
-    background:#a4abf8;
+    background:#1f7922;
     border-radius: 25%;
 }
 
@@ -40,7 +40,7 @@ h3 {
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid rgb(202, 101, 23);
     display: block;
     margin: auto;
 }
@@ -51,7 +51,7 @@ h3 {
 
 a{
     text-decoration: none;
-    color: rgb(126, 14, 201);
+    color: rgb(202, 101, 23);
 }
 
 .project a:hover{
@@ -77,7 +77,7 @@ a{
     width: 150px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid rgb(202, 101, 23);
 }
 
 .about p {
